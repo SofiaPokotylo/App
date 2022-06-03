@@ -1,0 +1,4 @@
+C:/Users/Asus/CLionProjects/App/cmake-build-debug/CMakeFiles/App.dir
+C:/Users/Asus/CLionProjects/App/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Asus/CLionProjects/App/cmake-build-debug/CMakeFiles/search_library.dir
+C:/Users/Asus/CLionProjects/App/cmake-build-debug/CMakeFiles/edit_cache.dir
